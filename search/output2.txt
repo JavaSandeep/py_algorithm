@@ -1,0 +1,1242 @@
+Start pos:  0  start house:  1
+Antenna installed at pos:  78  installed house:  79
+Start pos:  160  start house:  161
+Antenna installed at pos:  234  installed house:  235
+Start pos:  316  start house:  317
+Antenna installed at pos:  396  installed house:  397
+Start pos:  479  start house:  480
+Antenna installed at pos:  559  installed house:  560
+Start pos:  643  start house:  644
+Antenna installed at pos:  722  installed house:  723
+Start pos:  803  start house:  804
+Antenna installed at pos:  883  installed house:  884
+Start pos:  966  start house:  967
+Antenna installed at pos:  1042  installed house:  1043
+Start pos:  1130  start house:  1131
+Antenna installed at pos:  1210  installed house:  1211
+Start pos:  1297  start house:  1298
+Antenna installed at pos:  1374  installed house:  1375
+Start pos:  1456  start house:  1457
+Antenna installed at pos:  1536  installed house:  1537
+Start pos:  1618  start house:  1619
+Antenna installed at pos:  1696  installed house:  1697
+Start pos:  1778  start house:  1779
+Antenna installed at pos:  1857  installed house:  1858
+Start pos:  1940  start house:  1941
+Antenna installed at pos:  2019  installed house:  2020
+Start pos:  2100  start house:  2101
+Antenna installed at pos:  2180  installed house:  2181
+Start pos:  2268  start house:  2269
+Antenna installed at pos:  2345  installed house:  2346
+Start pos:  2431  start house:  2432
+Antenna installed at pos:  2503  installed house:  2504
+Start pos:  2584  start house:  2585
+Antenna installed at pos:  2660  installed house:  2661
+Start pos:  2742  start house:  2743
+Antenna installed at pos:  2822  installed house:  2823
+Start pos:  2903  start house:  2904
+Antenna installed at pos:  2980  installed house:  2981
+Start pos:  3062  start house:  3063
+Antenna installed at pos:  3142  installed house:  3143
+Start pos:  3231  start house:  3232
+Antenna installed at pos:  3305  installed house:  3306
+Start pos:  3387  start house:  3388
+Antenna installed at pos:  3467  installed house:  3468
+Start pos:  3550  start house:  3551
+Antenna installed at pos:  3628  installed house:  3629
+Start pos:  3711  start house:  3712
+Antenna installed at pos:  3791  installed house:  3792
+Start pos:  3875  start house:  3876
+Antenna installed at pos:  3955  installed house:  3956
+Start pos:  4043  start house:  4044
+Antenna installed at pos:  4122  installed house:  4123
+Start pos:  4203  start house:  4204
+Antenna installed at pos:  4283  installed house:  4284
+Start pos:  4366  start house:  4367
+Antenna installed at pos:  4440  installed house:  4441
+Start pos:  4521  start house:  4522
+Antenna installed at pos:  4600  installed house:  4601
+Start pos:  4685  start house:  4686
+Antenna installed at pos:  4764  installed house:  4765
+Start pos:  4846  start house:  4847
+Antenna installed at pos:  4924  installed house:  4925
+Start pos:  5006  start house:  5007
+Antenna installed at pos:  5085  installed house:  5086
+Start pos:  5166  start house:  5167
+Antenna installed at pos:  5246  installed house:  5247
+Start pos:  5333  start house:  5334
+Antenna installed at pos:  5413  installed house:  5414
+Start pos:  5495  start house:  5496
+Antenna installed at pos:  5575  installed house:  5576
+Start pos:  5658  start house:  5659
+Antenna installed at pos:  5731  installed house:  5732
+Start pos:  5813  start house:  5814
+Antenna installed at pos:  5890  installed house:  5891
+Start pos:  5971  start house:  5972
+Antenna installed at pos:  6044  installed house:  6045
+Start pos:  6129  start house:  6130
+Antenna installed at pos:  6207  installed house:  6208
+Start pos:  6289  start house:  6290
+Antenna installed at pos:  6368  installed house:  6369
+Start pos:  6449  start house:  6450
+Antenna installed at pos:  6527  installed house:  6528
+Start pos:  6616  start house:  6617
+Antenna installed at pos:  6679  installed house:  6680
+Start pos:  6760  start house:  6761
+Antenna installed at pos:  6835  installed house:  6836
+Start pos:  6917  start house:  6918
+Antenna installed at pos:  6994  installed house:  6995
+Start pos:  7079  start house:  7080
+Antenna installed at pos:  7153  installed house:  7154
+Start pos:  7234  start house:  7235
+Antenna installed at pos:  7314  installed house:  7315
+Start pos:  7396  start house:  7397
+Antenna installed at pos:  7474  installed house:  7475
+Start pos:  7555  start house:  7556
+Antenna installed at pos:  7633  installed house:  7634
+Start pos:  7714  start house:  7715
+Antenna installed at pos:  7788  installed house:  7789
+Start pos:  7869  start house:  7870
+Antenna installed at pos:  7947  installed house:  7948
+Start pos:  8031  start house:  8032
+Antenna installed at pos:  8109  installed house:  8110
+Start pos:  8193  start house:  8194
+Antenna installed at pos:  8273  installed house:  8274
+Start pos:  8355  start house:  8356
+Antenna installed at pos:  8430  installed house:  8431
+Start pos:  8514  start house:  8515
+Antenna installed at pos:  8591  installed house:  8592
+Start pos:  8674  start house:  8675
+Antenna installed at pos:  8748  installed house:  8749
+Start pos:  8831  start house:  8832
+Antenna installed at pos:  8901  installed house:  8902
+Start pos:  8982  start house:  8983
+Antenna installed at pos:  9060  installed house:  9061
+Start pos:  9141  start house:  9142
+Antenna installed at pos:  9216  installed house:  9217
+Start pos:  9297  start house:  9298
+Antenna installed at pos:  9377  installed house:  9378
+Start pos:  9468  start house:  9469
+Antenna installed at pos:  9546  installed house:  9547
+Start pos:  9646  start house:  9647
+Antenna installed at pos:  9725  installed house:  9726
+Start pos:  9808  start house:  9809
+Antenna installed at pos:  9887  installed house:  9888
+Start pos:  9972  start house:  9973
+Antenna installed at pos:  10049  installed house:  10050
+Start pos:  10133  start house:  10134
+Antenna installed at pos:  10207  installed house:  10208
+Start pos:  10290  start house:  10291
+Antenna installed at pos:  10368  installed house:  10369
+Start pos:  10450  start house:  10451
+Antenna installed at pos:  10529  installed house:  10530
+Start pos:  10612  start house:  10613
+Antenna installed at pos:  10692  installed house:  10693
+Start pos:  10779  start house:  10780
+Antenna installed at pos:  10856  installed house:  10857
+Start pos:  10940  start house:  10941
+Antenna installed at pos:  11017  installed house:  11018
+Start pos:  11099  start house:  11100
+Antenna installed at pos:  11172  installed house:  11173
+Start pos:  11255  start house:  11256
+Antenna installed at pos:  11333  installed house:  11334
+Start pos:  11414  start house:  11415
+Antenna installed at pos:  11493  installed house:  11494
+Start pos:  11576  start house:  11577
+Antenna installed at pos:  11655  installed house:  11656
+Start pos:  11746  start house:  11747
+Antenna installed at pos:  11824  installed house:  11825
+Start pos:  11907  start house:  11908
+Antenna installed at pos:  11986  installed house:  11987
+Start pos:  12068  start house:  12069
+Antenna installed at pos:  12146  installed house:  12147
+Start pos:  12227  start house:  12228
+Antenna installed at pos:  12305  installed house:  12306
+Start pos:  12388  start house:  12389
+Antenna installed at pos:  12467  installed house:  12468
+Start pos:  12548  start house:  12549
+Antenna installed at pos:  12628  installed house:  12629
+Start pos:  12709  start house:  12710
+Antenna installed at pos:  12786  installed house:  12787
+Start pos:  12874  start house:  12875
+Antenna installed at pos:  12952  installed house:  12953
+Start pos:  13033  start house:  13034
+Antenna installed at pos:  13112  installed house:  13113
+Start pos:  13193  start house:  13194
+Antenna installed at pos:  13271  installed house:  13272
+Start pos:  13353  start house:  13354
+Antenna installed at pos:  13429  installed house:  13430
+Start pos:  13516  start house:  13517
+Antenna installed at pos:  13595  installed house:  13596
+Start pos:  13677  start house:  13678
+Antenna installed at pos:  13755  installed house:  13756
+Start pos:  13837  start house:  13838
+Antenna installed at pos:  13916  installed house:  13917
+Start pos:  13998  start house:  13999
+Antenna installed at pos:  14078  installed house:  14079
+Start pos:  14160  start house:  14161
+Antenna installed at pos:  14228  installed house:  14229
+Start pos:  14313  start house:  14314
+Antenna installed at pos:  14387  installed house:  14388
+Start pos:  14471  start house:  14472
+Antenna installed at pos:  14551  installed house:  14552
+Start pos:  14637  start house:  14638
+Antenna installed at pos:  14716  installed house:  14717
+Start pos:  14798  start house:  14799
+Antenna installed at pos:  14877  installed house:  14878
+Start pos:  14958  start house:  14959
+Antenna installed at pos:  15034  installed house:  15035
+Start pos:  15116  start house:  15117
+Antenna installed at pos:  15196  installed house:  15197
+Start pos:  15278  start house:  15279
+Antenna installed at pos:  15349  installed house:  15350
+Start pos:  15432  start house:  15433
+Antenna installed at pos:  15509  installed house:  15510
+Start pos:  15590  start house:  15591
+Antenna installed at pos:  15670  installed house:  15671
+Start pos:  15759  start house:  15760
+Antenna installed at pos:  15839  installed house:  15840
+Start pos:  15924  start house:  15925
+Antenna installed at pos:  16002  installed house:  16003
+Start pos:  16085  start house:  16086
+Antenna installed at pos:  16164  installed house:  16165
+Start pos:  16245  start house:  16246
+Antenna installed at pos:  16322  installed house:  16323
+Start pos:  16403  start house:  16404
+Antenna installed at pos:  16483  installed house:  16484
+Start pos:  16566  start house:  16567
+Antenna installed at pos:  16643  installed house:  16644
+Start pos:  16730  start house:  16731
+Antenna installed at pos:  16810  installed house:  16811
+Start pos:  16893  start house:  16894
+Antenna installed at pos:  16973  installed house:  16974
+Start pos:  17054  start house:  17055
+Antenna installed at pos:  17132  installed house:  17133
+Start pos:  17217  start house:  17218
+Antenna installed at pos:  17293  installed house:  17294
+Start pos:  17375  start house:  17376
+Antenna installed at pos:  17455  installed house:  17456
+Start pos:  17537  start house:  17538
+Antenna installed at pos:  17615  installed house:  17616
+Start pos:  17701  start house:  17702
+Antenna installed at pos:  17780  installed house:  17781
+Start pos:  17861  start house:  17862
+Antenna installed at pos:  17936  installed house:  17937
+Start pos:  18019  start house:  18020
+Antenna installed at pos:  18098  installed house:  18099
+Start pos:  18181  start house:  18182
+Antenna installed at pos:  18260  installed house:  18261
+Start pos:  18341  start house:  18342
+Antenna installed at pos:  18419  installed house:  18420
+Start pos:  18511  start house:  18512
+Antenna installed at pos:  18590  installed house:  18591
+Start pos:  18672  start house:  18673
+Antenna installed at pos:  18750  installed house:  18751
+Start pos:  18834  start house:  18835
+Antenna installed at pos:  18914  installed house:  18915
+Start pos:  18999  start house:  19000
+Antenna installed at pos:  19079  installed house:  19080
+Start pos:  19167  start house:  19168
+Antenna installed at pos:  19247  installed house:  19248
+Start pos:  19334  start house:  19335
+Antenna installed at pos:  19413  installed house:  19414
+Start pos:  19494  start house:  19495
+Antenna installed at pos:  19574  installed house:  19575
+Start pos:  19658  start house:  19659
+Antenna installed at pos:  19734  installed house:  19735
+Start pos:  19819  start house:  19820
+Antenna installed at pos:  19899  installed house:  19900
+Start pos:  19982  start house:  19983
+Antenna installed at pos:  20061  installed house:  20062
+Start pos:  20142  start house:  20143
+Antenna installed at pos:  20221  installed house:  20222
+Start pos:  20303  start house:  20304
+Antenna installed at pos:  20382  installed house:  20383
+Start pos:  20468  start house:  20469
+Antenna installed at pos:  20543  installed house:  20544
+Start pos:  20625  start house:  20626
+Antenna installed at pos:  20700  installed house:  20701
+Start pos:  20782  start house:  20783
+Antenna installed at pos:  20859  installed house:  20860
+Start pos:  20940  start house:  20941
+Antenna installed at pos:  21019  installed house:  21020
+Start pos:  21100  start house:  21101
+Antenna installed at pos:  21180  installed house:  21181
+Start pos:  21262  start house:  21263
+Antenna installed at pos:  21339  installed house:  21340
+Start pos:  21425  start house:  21426
+Antenna installed at pos:  21502  installed house:  21503
+Start pos:  21584  start house:  21585
+Antenna installed at pos:  21661  installed house:  21662
+Start pos:  21742  start house:  21743
+Antenna installed at pos:  21821  installed house:  21822
+Start pos:  21904  start house:  21905
+Antenna installed at pos:  21980  installed house:  21981
+Start pos:  22061  start house:  22062
+Antenna installed at pos:  22141  installed house:  22142
+Start pos:  22228  start house:  22229
+Antenna installed at pos:  22308  installed house:  22309
+Start pos:  22390  start house:  22391
+Antenna installed at pos:  22470  installed house:  22471
+Start pos:  22554  start house:  22555
+Antenna installed at pos:  22634  installed house:  22635
+Start pos:  22715  start house:  22716
+Antenna installed at pos:  22793  installed house:  22794
+Start pos:  22880  start house:  22881
+Antenna installed at pos:  22960  installed house:  22961
+Start pos:  23042  start house:  23043
+Antenna installed at pos:  23117  installed house:  23118
+Start pos:  23198  start house:  23199
+Antenna installed at pos:  23278  installed house:  23279
+Start pos:  23361  start house:  23362
+Antenna installed at pos:  23440  installed house:  23441
+Start pos:  23523  start house:  23524
+Antenna installed at pos:  23601  installed house:  23602
+Start pos:  23685  start house:  23686
+Antenna installed at pos:  23764  installed house:  23765
+Start pos:  23860  start house:  23861
+Antenna installed at pos:  23937  installed house:  23938
+Start pos:  24022  start house:  24023
+Antenna installed at pos:  24102  installed house:  24103
+Start pos:  24184  start house:  24185
+Antenna installed at pos:  24258  installed house:  24259
+Start pos:  24340  start house:  24341
+Antenna installed at pos:  24420  installed house:  24421
+Start pos:  24510  start house:  24511
+Antenna installed at pos:  24590  installed house:  24591
+Start pos:  24675  start house:  24676
+Antenna installed at pos:  24754  installed house:  24755
+Start pos:  24838  start house:  24839
+Antenna installed at pos:  24917  installed house:  24918
+Start pos:  25000  start house:  25001
+Antenna installed at pos:  25080  installed house:  25081
+Start pos:  25166  start house:  25167
+Antenna installed at pos:  25245  installed house:  25246
+Start pos:  25327  start house:  25328
+Antenna installed at pos:  25403  installed house:  25404
+Start pos:  25488  start house:  25489
+Antenna installed at pos:  25567  installed house:  25568
+Start pos:  25648  start house:  25649
+Antenna installed at pos:  25721  installed house:  25722
+Start pos:  25804  start house:  25805
+Antenna installed at pos:  25879  installed house:  25880
+Start pos:  25960  start house:  25961
+Antenna installed at pos:  26040  installed house:  26041
+Start pos:  26124  start house:  26125
+Antenna installed at pos:  26203  installed house:  26204
+Start pos:  26288  start house:  26289
+Antenna installed at pos:  26368  installed house:  26369
+Start pos:  26449  start house:  26450
+Antenna installed at pos:  26529  installed house:  26530
+Start pos:  26610  start house:  26611
+Antenna installed at pos:  26690  installed house:  26691
+Start pos:  26771  start house:  26772
+Antenna installed at pos:  26850  installed house:  26851
+Start pos:  26933  start house:  26934
+Antenna installed at pos:  27009  installed house:  27010
+Start pos:  27091  start house:  27092
+Antenna installed at pos:  27171  installed house:  27172
+Start pos:  27253  start house:  27254
+Antenna installed at pos:  27333  installed house:  27334
+Start pos:  27414  start house:  27415
+Antenna installed at pos:  27491  installed house:  27492
+Start pos:  27572  start house:  27573
+Antenna installed at pos:  27644  installed house:  27645
+Start pos:  27726  start house:  27727
+Antenna installed at pos:  27805  installed house:  27806
+Start pos:  27887  start house:  27888
+Antenna installed at pos:  27967  installed house:  27968
+Start pos:  28053  start house:  28054
+Antenna installed at pos:  28131  installed house:  28132
+Start pos:  28214  start house:  28215
+Antenna installed at pos:  28289  installed house:  28290
+Start pos:  28374  start house:  28375
+Antenna installed at pos:  28454  installed house:  28455
+Start pos:  28536  start house:  28537
+Antenna installed at pos:  28613  installed house:  28614
+Start pos:  28699  start house:  28700
+Antenna installed at pos:  28775  installed house:  28776
+Start pos:  28857  start house:  28858
+Antenna installed at pos:  28935  installed house:  28936
+Start pos:  29025  start house:  29026
+Antenna installed at pos:  29101  installed house:  29102
+Start pos:  29182  start house:  29183
+Antenna installed at pos:  29261  installed house:  29262
+Start pos:  29348  start house:  29349
+Antenna installed at pos:  29427  installed house:  29428
+Start pos:  29511  start house:  29512
+Antenna installed at pos:  29582  installed house:  29583
+Start pos:  29666  start house:  29667
+Antenna installed at pos:  29739  installed house:  29740
+Start pos:  29820  start house:  29821
+Antenna installed at pos:  29895  installed house:  29896
+Start pos:  29980  start house:  29981
+Antenna installed at pos:  30059  installed house:  30060
+Start pos:  30140  start house:  30141
+Antenna installed at pos:  30219  installed house:  30220
+Start pos:  30302  start house:  30303
+Antenna installed at pos:  30381  installed house:  30382
+Start pos:  30464  start house:  30465
+Antenna installed at pos:  30544  installed house:  30545
+Start pos:  30625  start house:  30626
+Antenna installed at pos:  30700  installed house:  30701
+Start pos:  30782  start house:  30783
+Antenna installed at pos:  30861  installed house:  30862
+Start pos:  30943  start house:  30944
+Antenna installed at pos:  31015  installed house:  31016
+Start pos:  31097  start house:  31098
+Antenna installed at pos:  31172  installed house:  31173
+Start pos:  31254  start house:  31255
+Antenna installed at pos:  31333  installed house:  31334
+Start pos:  31416  start house:  31417
+Antenna installed at pos:  31495  installed house:  31496
+Start pos:  31577  start house:  31578
+Antenna installed at pos:  31655  installed house:  31656
+Start pos:  31737  start house:  31738
+Antenna installed at pos:  31817  installed house:  31818
+Start pos:  31898  start house:  31899
+Antenna installed at pos:  31974  installed house:  31975
+Start pos:  32056  start house:  32057
+Antenna installed at pos:  32135  installed house:  32136
+Start pos:  32219  start house:  32220
+Antenna installed at pos:  32299  installed house:  32300
+Start pos:  32382  start house:  32383
+Antenna installed at pos:  32462  installed house:  32463
+Start pos:  32547  start house:  32548
+Antenna installed at pos:  32625  installed house:  32626
+Start pos:  32709  start house:  32710
+Antenna installed at pos:  32789  installed house:  32790
+Start pos:  32875  start house:  32876
+Antenna installed at pos:  32954  installed house:  32955
+Start pos:  33035  start house:  33036
+Antenna installed at pos:  33115  installed house:  33116
+Start pos:  33197  start house:  33198
+Antenna installed at pos:  33277  installed house:  33278
+Start pos:  33360  start house:  33361
+Antenna installed at pos:  33440  installed house:  33441
+Start pos:  33521  start house:  33522
+Antenna installed at pos:  33601  installed house:  33602
+Start pos:  33682  start house:  33683
+Antenna installed at pos:  33762  installed house:  33763
+Start pos:  33846  start house:  33847
+Antenna installed at pos:  33924  installed house:  33925
+Start pos:  34011  start house:  34012
+Antenna installed at pos:  34088  installed house:  34089
+Start pos:  34170  start house:  34171
+Antenna installed at pos:  34250  installed house:  34251
+Start pos:  34335  start house:  34336
+Antenna installed at pos:  34410  installed house:  34411
+Start pos:  34496  start house:  34497
+Antenna installed at pos:  34573  installed house:  34574
+Start pos:  34654  start house:  34655
+Antenna installed at pos:  34734  installed house:  34735
+Start pos:  34820  start house:  34821
+Antenna installed at pos:  34900  installed house:  34901
+Start pos:  34981  start house:  34982
+Antenna installed at pos:  35060  installed house:  35061
+Start pos:  35144  start house:  35145
+Antenna installed at pos:  35223  installed house:  35224
+Start pos:  35305  start house:  35306
+Antenna installed at pos:  35380  installed house:  35381
+Start pos:  35462  start house:  35463
+Antenna installed at pos:  35541  installed house:  35542
+Start pos:  35623  start house:  35624
+Antenna installed at pos:  35703  installed house:  35704
+Start pos:  35784  start house:  35785
+Antenna installed at pos:  35862  installed house:  35863
+Start pos:  35945  start house:  35946
+Antenna installed at pos:  36023  installed house:  36024
+Start pos:  36108  start house:  36109
+Antenna installed at pos:  36185  installed house:  36186
+Start pos:  36266  start house:  36267
+Antenna installed at pos:  36340  installed house:  36341
+Start pos:  36422  start house:  36423
+Antenna installed at pos:  36500  installed house:  36501
+Start pos:  36587  start house:  36588
+Antenna installed at pos:  36667  installed house:  36668
+Start pos:  36753  start house:  36754
+Antenna installed at pos:  36832  installed house:  36833
+Start pos:  36914  start house:  36915
+Antenna installed at pos:  36994  installed house:  36995
+Start pos:  37081  start house:  37082
+Antenna installed at pos:  37159  installed house:  37160
+Start pos:  37240  start house:  37241
+Antenna installed at pos:  37312  installed house:  37313
+Start pos:  37393  start house:  37394
+Antenna installed at pos:  37473  installed house:  37474
+Start pos:  37558  start house:  37559
+Antenna installed at pos:  37637  installed house:  37638
+Start pos:  37718  start house:  37719
+Antenna installed at pos:  37797  installed house:  37798
+Start pos:  37882  start house:  37883
+Antenna installed at pos:  37962  installed house:  37963
+Start pos:  38045  start house:  38046
+Antenna installed at pos:  38123  installed house:  38124
+Start pos:  38204  start house:  38205
+Antenna installed at pos:  38283  installed house:  38284
+Start pos:  38372  start house:  38373
+Antenna installed at pos:  38452  installed house:  38453
+Start pos:  38538  start house:  38539
+Antenna installed at pos:  38616  installed house:  38617
+Start pos:  38700  start house:  38701
+Antenna installed at pos:  38778  installed house:  38779
+Start pos:  38863  start house:  38864
+Antenna installed at pos:  38941  installed house:  38942
+Start pos:  39024  start house:  39025
+Antenna installed at pos:  39104  installed house:  39105
+Start pos:  39186  start house:  39187
+Antenna installed at pos:  39259  installed house:  39260
+Start pos:  39341  start house:  39342
+Antenna installed at pos:  39419  installed house:  39420
+Start pos:  39504  start house:  39505
+Antenna installed at pos:  39578  installed house:  39579
+Start pos:  39659  start house:  39660
+Antenna installed at pos:  39738  installed house:  39739
+Start pos:  39821  start house:  39822
+Antenna installed at pos:  39900  installed house:  39901
+Start pos:  39983  start house:  39984
+Antenna installed at pos:  40061  installed house:  40062
+Start pos:  40144  start house:  40145
+Antenna installed at pos:  40223  installed house:  40224
+Start pos:  40304  start house:  40305
+Antenna installed at pos:  40384  installed house:  40385
+Start pos:  40465  start house:  40466
+Antenna installed at pos:  40542  installed house:  40543
+Start pos:  40625  start house:  40626
+Antenna installed at pos:  40701  installed house:  40702
+Start pos:  40786  start house:  40787
+Antenna installed at pos:  40866  installed house:  40867
+Start pos:  40947  start house:  40948
+Antenna installed at pos:  41027  installed house:  41028
+Start pos:  41110  start house:  41111
+Antenna installed at pos:  41190  installed house:  41191
+Start pos:  41272  start house:  41273
+Antenna installed at pos:  41352  installed house:  41353
+Start pos:  41433  start house:  41434
+Antenna installed at pos:  41513  installed house:  41514
+Start pos:  41595  start house:  41596
+Antenna installed at pos:  41675  installed house:  41676
+Start pos:  41756  start house:  41757
+Antenna installed at pos:  41836  installed house:  41837
+Start pos:  41918  start house:  41919
+Antenna installed at pos:  41994  installed house:  41995
+Start pos:  42076  start house:  42077
+Antenna installed at pos:  42156  installed house:  42157
+Start pos:  42239  start house:  42240
+Antenna installed at pos:  42317  installed house:  42318
+Start pos:  42405  start house:  42406
+Antenna installed at pos:  42485  installed house:  42486
+Start pos:  42566  start house:  42567
+Antenna installed at pos:  42645  installed house:  42646
+Start pos:  42731  start house:  42732
+Antenna installed at pos:  42809  installed house:  42810
+Start pos:  42892  start house:  42893
+Antenna installed at pos:  42970  installed house:  42971
+Start pos:  43053  start house:  43054
+Antenna installed at pos:  43130  installed house:  43131
+Start pos:  43212  start house:  43213
+Antenna installed at pos:  43285  installed house:  43286
+Start pos:  43366  start house:  43367
+Antenna installed at pos:  43445  installed house:  43446
+Start pos:  43526  start house:  43527
+Antenna installed at pos:  43605  installed house:  43606
+Start pos:  43686  start house:  43687
+Antenna installed at pos:  43766  installed house:  43767
+Start pos:  43848  start house:  43849
+Antenna installed at pos:  43921  installed house:  43922
+Start pos:  44006  start house:  44007
+Antenna installed at pos:  44086  installed house:  44087
+Start pos:  44175  start house:  44176
+Antenna installed at pos:  44255  installed house:  44256
+Start pos:  44338  start house:  44339
+Antenna installed at pos:  44417  installed house:  44418
+Start pos:  44502  start house:  44503
+Antenna installed at pos:  44579  installed house:  44580
+Start pos:  44660  start house:  44661
+Antenna installed at pos:  44738  installed house:  44739
+Start pos:  44823  start house:  44824
+Antenna installed at pos:  44901  installed house:  44902
+Start pos:  44984  start house:  44985
+Antenna installed at pos:  45063  installed house:  45064
+Start pos:  45150  start house:  45151
+Antenna installed at pos:  45228  installed house:  45229
+Start pos:  45314  start house:  45315
+Antenna installed at pos:  45394  installed house:  45395
+Start pos:  45477  start house:  45478
+Antenna installed at pos:  45557  installed house:  45558
+Start pos:  45642  start house:  45643
+Antenna installed at pos:  45706  installed house:  45707
+Start pos:  45790  start house:  45791
+Antenna installed at pos:  45866  installed house:  45867
+Start pos:  45949  start house:  45950
+Antenna installed at pos:  46021  installed house:  46022
+Start pos:  46102  start house:  46103
+Antenna installed at pos:  46181  installed house:  46182
+Start pos:  46262  start house:  46263
+Antenna installed at pos:  46341  installed house:  46342
+Start pos:  46424  start house:  46425
+Antenna installed at pos:  46504  installed house:  46505
+Start pos:  46587  start house:  46588
+Antenna installed at pos:  46666  installed house:  46667
+Start pos:  46755  start house:  46756
+Antenna installed at pos:  46833  installed house:  46834
+Start pos:  46917  start house:  46918
+Antenna installed at pos:  46995  installed house:  46996
+Start pos:  47076  start house:  47077
+Antenna installed at pos:  47154  installed house:  47155
+Start pos:  47246  start house:  47247
+Antenna installed at pos:  47322  installed house:  47323
+Start pos:  47407  start house:  47408
+Antenna installed at pos:  47477  installed house:  47478
+Start pos:  47558  start house:  47559
+Antenna installed at pos:  47634  installed house:  47635
+Start pos:  47715  start house:  47716
+Antenna installed at pos:  47789  installed house:  47790
+Start pos:  47870  start house:  47871
+Antenna installed at pos:  47950  installed house:  47951
+Start pos:  48037  start house:  48038
+Antenna installed at pos:  48115  installed house:  48116
+Start pos:  48199  start house:  48200
+Antenna installed at pos:  48273  installed house:  48274
+Start pos:  48355  start house:  48356
+Antenna installed at pos:  48435  installed house:  48436
+Start pos:  48523  start house:  48524
+Antenna installed at pos:  48602  installed house:  48603
+Start pos:  48683  start house:  48684
+Antenna installed at pos:  48763  installed house:  48764
+Start pos:  48844  start house:  48845
+Antenna installed at pos:  48924  installed house:  48925
+Start pos:  49005  start house:  49006
+Antenna installed at pos:  49081  installed house:  49082
+Start pos:  49162  start house:  49163
+Antenna installed at pos:  49241  installed house:  49242
+Start pos:  49325  start house:  49326
+Antenna installed at pos:  49405  installed house:  49406
+Start pos:  49489  start house:  49490
+Antenna installed at pos:  49569  installed house:  49570
+Start pos:  49652  start house:  49653
+Antenna installed at pos:  49732  installed house:  49733
+Start pos:  49813  start house:  49814
+Antenna installed at pos:  49890  installed house:  49891
+Start pos:  49971  start house:  49972
+Antenna installed at pos:  50050  installed house:  50051
+Start pos:  50135  start house:  50136
+Antenna installed at pos:  50215  installed house:  50216
+Start pos:  50305  start house:  50306
+Antenna installed at pos:  50382  installed house:  50383
+Start pos:  50463  start house:  50464
+Antenna installed at pos:  50542  installed house:  50543
+Start pos:  50623  start house:  50624
+Antenna installed at pos:  50701  installed house:  50702
+Start pos:  50785  start house:  50786
+Antenna installed at pos:  50858  installed house:  50859
+Start pos:  50940  start house:  50941
+Antenna installed at pos:  51020  installed house:  51021
+Start pos:  51101  start house:  51102
+Antenna installed at pos:  51181  installed house:  51182
+Start pos:  51262  start house:  51263
+Antenna installed at pos:  51340  installed house:  51341
+Start pos:  51421  start house:  51422
+Antenna installed at pos:  51501  installed house:  51502
+Start pos:  51586  start house:  51587
+Antenna installed at pos:  51666  installed house:  51667
+Start pos:  51747  start house:  51748
+Antenna installed at pos:  51826  installed house:  51827
+Start pos:  51908  start house:  51909
+Antenna installed at pos:  51984  installed house:  51985
+Start pos:  52066  start house:  52067
+Antenna installed at pos:  52146  installed house:  52147
+Start pos:  52228  start house:  52229
+Antenna installed at pos:  52307  installed house:  52308
+Start pos:  52391  start house:  52392
+Antenna installed at pos:  52471  installed house:  52472
+Start pos:  52554  start house:  52555
+Antenna installed at pos:  52628  installed house:  52629
+Start pos:  52711  start house:  52712
+Antenna installed at pos:  52791  installed house:  52792
+Start pos:  52873  start house:  52874
+Antenna installed at pos:  52949  installed house:  52950
+Start pos:  53031  start house:  53032
+Antenna installed at pos:  53111  installed house:  53112
+Start pos:  53192  start house:  53193
+Antenna installed at pos:  53271  installed house:  53272
+Start pos:  53352  start house:  53353
+Antenna installed at pos:  53429  installed house:  53430
+Start pos:  53511  start house:  53512
+Antenna installed at pos:  53583  installed house:  53584
+Start pos:  53672  start house:  53673
+Antenna installed at pos:  53750  installed house:  53751
+Start pos:  53833  start house:  53834
+Antenna installed at pos:  53910  installed house:  53911
+Start pos:  53991  start house:  53992
+Antenna installed at pos:  54071  installed house:  54072
+Start pos:  54160  start house:  54161
+Antenna installed at pos:  54240  installed house:  54241
+Start pos:  54321  start house:  54322
+Antenna installed at pos:  54398  installed house:  54399
+Start pos:  54479  start house:  54480
+Antenna installed at pos:  54559  installed house:  54560
+Start pos:  54641  start house:  54642
+Antenna installed at pos:  54713  installed house:  54714
+Start pos:  54796  start house:  54797
+Antenna installed at pos:  54874  installed house:  54875
+Start pos:  54956  start house:  54957
+Antenna installed at pos:  55035  installed house:  55036
+Start pos:  55116  start house:  55117
+Antenna installed at pos:  55194  installed house:  55195
+Start pos:  55275  start house:  55276
+Antenna installed at pos:  55353  installed house:  55354
+Start pos:  55434  start house:  55435
+Antenna installed at pos:  55514  installed house:  55515
+Start pos:  55601  start house:  55602
+Antenna installed at pos:  55680  installed house:  55681
+Start pos:  55765  start house:  55766
+Antenna installed at pos:  55842  installed house:  55843
+Start pos:  55930  start house:  55931
+Antenna installed at pos:  56010  installed house:  56011
+Start pos:  56093  start house:  56094
+Antenna installed at pos:  56169  installed house:  56170
+Start pos:  56252  start house:  56253
+Antenna installed at pos:  56329  installed house:  56330
+Start pos:  56413  start house:  56414
+Antenna installed at pos:  56485  installed house:  56486
+Start pos:  56569  start house:  56570
+Antenna installed at pos:  56647  installed house:  56648
+Start pos:  56732  start house:  56733
+Antenna installed at pos:  56810  installed house:  56811
+Start pos:  56893  start house:  56894
+Antenna installed at pos:  56972  installed house:  56973
+Start pos:  57056  start house:  57057
+Antenna installed at pos:  57136  installed house:  57137
+Start pos:  57218  start house:  57219
+Antenna installed at pos:  57289  installed house:  57290
+Start pos:  57373  start house:  57374
+Antenna installed at pos:  57448  installed house:  57449
+Start pos:  57536  start house:  57537
+Antenna installed at pos:  57616  installed house:  57617
+Start pos:  57697  start house:  57698
+Antenna installed at pos:  57777  installed house:  57778
+Start pos:  57858  start house:  57859
+Antenna installed at pos:  57938  installed house:  57939
+Start pos:  58020  start house:  58021
+Antenna installed at pos:  58097  installed house:  58098
+Start pos:  58178  start house:  58179
+Antenna installed at pos:  58257  installed house:  58258
+Start pos:  58339  start house:  58340
+Antenna installed at pos:  58417  installed house:  58418
+Start pos:  58500  start house:  58501
+Antenna installed at pos:  58578  installed house:  58579
+Start pos:  58659  start house:  58660
+Antenna installed at pos:  58739  installed house:  58740
+Start pos:  58821  start house:  58822
+Antenna installed at pos:  58898  installed house:  58899
+Start pos:  58984  start house:  58985
+Antenna installed at pos:  59064  installed house:  59065
+Start pos:  59145  start house:  59146
+Antenna installed at pos:  59223  installed house:  59224
+Start pos:  59305  start house:  59306
+Antenna installed at pos:  59381  installed house:  59382
+Start pos:  59478  start house:  59479
+Antenna installed at pos:  59551  installed house:  59552
+Start pos:  59633  start house:  59634
+Antenna installed at pos:  59712  installed house:  59713
+Start pos:  59793  start house:  59794
+Antenna installed at pos:  59873  installed house:  59874
+Start pos:  59960  start house:  59961
+Antenna installed at pos:  60029  installed house:  60030
+Start pos:  60110  start house:  60111
+Antenna installed at pos:  60189  installed house:  60190
+Start pos:  60271  start house:  60272
+Antenna installed at pos:  60350  installed house:  60351
+Start pos:  60431  start house:  60432
+Antenna installed at pos:  60511  installed house:  60512
+Start pos:  60593  start house:  60594
+Antenna installed at pos:  60672  installed house:  60673
+Start pos:  60755  start house:  60756
+Antenna installed at pos:  60835  installed house:  60836
+Start pos:  60918  start house:  60919
+Antenna installed at pos:  60995  installed house:  60996
+Start pos:  61078  start house:  61079
+Antenna installed at pos:  61158  installed house:  61159
+Start pos:  61241  start house:  61242
+Antenna installed at pos:  61317  installed house:  61318
+Start pos:  61398  start house:  61399
+Antenna installed at pos:  61478  installed house:  61479
+Start pos:  61562  start house:  61563
+Antenna installed at pos:  61638  installed house:  61639
+Start pos:  61720  start house:  61721
+Antenna installed at pos:  61798  installed house:  61799
+Start pos:  61893  start house:  61894
+Antenna installed at pos:  61970  installed house:  61971
+Start pos:  62056  start house:  62057
+Antenna installed at pos:  62135  installed house:  62136
+Start pos:  62217  start house:  62218
+Antenna installed at pos:  62297  installed house:  62298
+Start pos:  62378  start house:  62379
+Antenna installed at pos:  62456  installed house:  62457
+Start pos:  62540  start house:  62541
+Antenna installed at pos:  62618  installed house:  62619
+Start pos:  62714  start house:  62715
+Antenna installed at pos:  62794  installed house:  62795
+Start pos:  62875  start house:  62876
+Antenna installed at pos:  62952  installed house:  62953
+Start pos:  63040  start house:  63041
+Antenna installed at pos:  63119  installed house:  63120
+Start pos:  63200  start house:  63201
+Antenna installed at pos:  63278  installed house:  63279
+Start pos:  63371  start house:  63372
+Antenna installed at pos:  63449  installed house:  63450
+Start pos:  63533  start house:  63534
+Antenna installed at pos:  63611  installed house:  63612
+Start pos:  63695  start house:  63696
+Antenna installed at pos:  63771  installed house:  63772
+Start pos:  63853  start house:  63854
+Antenna installed at pos:  63930  installed house:  63931
+Start pos:  64014  start house:  64015
+Antenna installed at pos:  64092  installed house:  64093
+Start pos:  64174  start house:  64175
+Antenna installed at pos:  64254  installed house:  64255
+Start pos:  64337  start house:  64338
+Antenna installed at pos:  64416  installed house:  64417
+Start pos:  64497  start house:  64498
+Antenna installed at pos:  64577  installed house:  64578
+Start pos:  64660  start house:  64661
+Antenna installed at pos:  64735  installed house:  64736
+Start pos:  64817  start house:  64818
+Antenna installed at pos:  64885  installed house:  64886
+Start pos:  64974  start house:  64975
+Antenna installed at pos:  65052  installed house:  65053
+Start pos:  65133  start house:  65134
+Antenna installed at pos:  65213  installed house:  65214
+Start pos:  65295  start house:  65296
+Antenna installed at pos:  65373  installed house:  65374
+Start pos:  65457  start house:  65458
+Antenna installed at pos:  65533  installed house:  65534
+Start pos:  65614  start house:  65615
+Antenna installed at pos:  65691  installed house:  65692
+Start pos:  65772  start house:  65773
+Antenna installed at pos:  65846  installed house:  65847
+Start pos:  65933  start house:  65934
+Antenna installed at pos:  66012  installed house:  66013
+Start pos:  66098  start house:  66099
+Antenna installed at pos:  66178  installed house:  66179
+Start pos:  66259  start house:  66260
+Antenna installed at pos:  66337  installed house:  66338
+Start pos:  66419  start house:  66420
+Antenna installed at pos:  66499  installed house:  66500
+Start pos:  66584  start house:  66585
+Antenna installed at pos:  66664  installed house:  66665
+Start pos:  66753  start house:  66754
+Antenna installed at pos:  66829  installed house:  66830
+Start pos:  66916  start house:  66917
+Antenna installed at pos:  66996  installed house:  66997
+Start pos:  67077  start house:  67078
+Antenna installed at pos:  67156  installed house:  67157
+Start pos:  67237  start house:  67238
+Antenna installed at pos:  67317  installed house:  67318
+Start pos:  67399  start house:  67400
+Antenna installed at pos:  67479  installed house:  67480
+Start pos:  67561  start house:  67562
+Antenna installed at pos:  67640  installed house:  67641
+Start pos:  67731  start house:  67732
+Antenna installed at pos:  67808  installed house:  67809
+Start pos:  67889  start house:  67890
+Antenna installed at pos:  67968  installed house:  67969
+Start pos:  68049  start house:  68050
+Antenna installed at pos:  68129  installed house:  68130
+Start pos:  68215  start house:  68216
+Antenna installed at pos:  68295  installed house:  68296
+Start pos:  68376  start house:  68377
+Antenna installed at pos:  68455  installed house:  68456
+Start pos:  68540  start house:  68541
+Antenna installed at pos:  68620  installed house:  68621
+Start pos:  68703  start house:  68704
+Antenna installed at pos:  68779  installed house:  68780
+Start pos:  68861  start house:  68862
+Antenna installed at pos:  68935  installed house:  68936
+Start pos:  69018  start house:  69019
+Antenna installed at pos:  69098  installed house:  69099
+Start pos:  69182  start house:  69183
+Antenna installed at pos:  69262  installed house:  69263
+Start pos:  69343  start house:  69344
+Antenna installed at pos:  69423  installed house:  69424
+Start pos:  69504  start house:  69505
+Antenna installed at pos:  69583  installed house:  69584
+Start pos:  69666  start house:  69667
+Antenna installed at pos:  69745  installed house:  69746
+Start pos:  69828  start house:  69829
+Antenna installed at pos:  69903  installed house:  69904
+Start pos:  69997  start house:  69998
+Antenna installed at pos:  70076  installed house:  70077
+Start pos:  70157  start house:  70158
+Antenna installed at pos:  70234  installed house:  70235
+Start pos:  70321  start house:  70322
+Antenna installed at pos:  70399  installed house:  70400
+Start pos:  70480  start house:  70481
+Antenna installed at pos:  70560  installed house:  70561
+Start pos:  70648  start house:  70649
+Antenna installed at pos:  70728  installed house:  70729
+Start pos:  70813  start house:  70814
+Antenna installed at pos:  70892  installed house:  70893
+Start pos:  70974  start house:  70975
+Antenna installed at pos:  71043  installed house:  71044
+Start pos:  71127  start house:  71128
+Antenna installed at pos:  71207  installed house:  71208
+Start pos:  71289  start house:  71290
+Antenna installed at pos:  71367  installed house:  71368
+Start pos:  71450  start house:  71451
+Antenna installed at pos:  71529  installed house:  71530
+Start pos:  71610  start house:  71611
+Antenna installed at pos:  71689  installed house:  71690
+Start pos:  71770  start house:  71771
+Antenna installed at pos:  71847  installed house:  71848
+Start pos:  71929  start house:  71930
+Antenna installed at pos:  72008  installed house:  72009
+Start pos:  72090  start house:  72091
+Antenna installed at pos:  72169  installed house:  72170
+Start pos:  72256  start house:  72257
+Antenna installed at pos:  72336  installed house:  72337
+Start pos:  72418  start house:  72419
+Antenna installed at pos:  72498  installed house:  72499
+Start pos:  72586  start house:  72587
+Antenna installed at pos:  72661  installed house:  72662
+Start pos:  72744  start house:  72745
+Antenna installed at pos:  72822  installed house:  72823
+Start pos:  72904  start house:  72905
+Antenna installed at pos:  72978  installed house:  72979
+Start pos:  73064  start house:  73065
+Antenna installed at pos:  73136  installed house:  73137
+Start pos:  73219  start house:  73220
+Antenna installed at pos:  73298  installed house:  73299
+Start pos:  73384  start house:  73385
+Antenna installed at pos:  73463  installed house:  73464
+Start pos:  73544  start house:  73545
+Antenna installed at pos:  73624  installed house:  73625
+Start pos:  73707  start house:  73708
+Antenna installed at pos:  73786  installed house:  73787
+Start pos:  73867  start house:  73868
+Antenna installed at pos:  73942  installed house:  73943
+Start pos:  74031  start house:  74032
+Antenna installed at pos:  74111  installed house:  74112
+Start pos:  74198  start house:  74199
+Antenna installed at pos:  74278  installed house:  74279
+Start pos:  74360  start house:  74361
+Antenna installed at pos:  74437  installed house:  74438
+Start pos:  74519  start house:  74520
+Antenna installed at pos:  74598  installed house:  74599
+Start pos:  74685  start house:  74686
+Antenna installed at pos:  74765  installed house:  74766
+Start pos:  74857  start house:  74858
+Antenna installed at pos:  74934  installed house:  74935
+Start pos:  75016  start house:  75017
+Antenna installed at pos:  75095  installed house:  75096
+Start pos:  75178  start house:  75179
+Antenna installed at pos:  75253  installed house:  75254
+Start pos:  75338  start house:  75339
+Antenna installed at pos:  75411  installed house:  75412
+Start pos:  75493  start house:  75494
+Antenna installed at pos:  75572  installed house:  75573
+Start pos:  75655  start house:  75656
+Antenna installed at pos:  75732  installed house:  75733
+Start pos:  75814  start house:  75815
+Antenna installed at pos:  75894  installed house:  75895
+Start pos:  75981  start house:  75982
+Antenna installed at pos:  76061  installed house:  76062
+Start pos:  76145  start house:  76146
+Antenna installed at pos:  76225  installed house:  76226
+Start pos:  76307  start house:  76308
+Antenna installed at pos:  76386  installed house:  76387
+Start pos:  76467  start house:  76468
+Antenna installed at pos:  76544  installed house:  76545
+Start pos:  76625  start house:  76626
+Antenna installed at pos:  76702  installed house:  76703
+Start pos:  76787  start house:  76788
+Antenna installed at pos:  76861  installed house:  76862
+Start pos:  76944  start house:  76945
+Antenna installed at pos:  77024  installed house:  77025
+Start pos:  77105  start house:  77106
+Antenna installed at pos:  77184  installed house:  77185
+Start pos:  77268  start house:  77269
+Antenna installed at pos:  77348  installed house:  77349
+Start pos:  77431  start house:  77432
+Antenna installed at pos:  77509  installed house:  77510
+Start pos:  77592  start house:  77593
+Antenna installed at pos:  77672  installed house:  77673
+Start pos:  77761  start house:  77762
+Antenna installed at pos:  77840  installed house:  77841
+Start pos:  77921  start house:  77922
+Antenna installed at pos:  78000  installed house:  78001
+Start pos:  78081  start house:  78082
+Antenna installed at pos:  78153  installed house:  78154
+Start pos:  78235  start house:  78236
+Antenna installed at pos:  78311  installed house:  78312
+Start pos:  78392  start house:  78393
+Antenna installed at pos:  78468  installed house:  78469
+Start pos:  78550  start house:  78551
+Antenna installed at pos:  78630  installed house:  78631
+Start pos:  78711  start house:  78712
+Antenna installed at pos:  78791  installed house:  78792
+Start pos:  78872  start house:  78873
+Antenna installed at pos:  78950  installed house:  78951
+Start pos:  79035  start house:  79036
+Antenna installed at pos:  79112  installed house:  79113
+Start pos:  79194  start house:  79195
+Antenna installed at pos:  79271  installed house:  79272
+Start pos:  79353  start house:  79354
+Antenna installed at pos:  79430  installed house:  79431
+Start pos:  79512  start house:  79513
+Antenna installed at pos:  79592  installed house:  79593
+Start pos:  79676  start house:  79677
+Antenna installed at pos:  79755  installed house:  79756
+Start pos:  79839  start house:  79840
+Antenna installed at pos:  79917  installed house:  79918
+Start pos:  80000  start house:  80001
+Antenna installed at pos:  80079  installed house:  80080
+Start pos:  80161  start house:  80162
+Antenna installed at pos:  80241  installed house:  80242
+Start pos:  80322  start house:  80323
+Antenna installed at pos:  80398  installed house:  80399
+Start pos:  80484  start house:  80485
+Antenna installed at pos:  80564  installed house:  80565
+Start pos:  80650  start house:  80651
+Antenna installed at pos:  80727  installed house:  80728
+Start pos:  80808  start house:  80809
+Antenna installed at pos:  80887  installed house:  80888
+Start pos:  80968  start house:  80969
+Antenna installed at pos:  81048  installed house:  81049
+Start pos:  81130  start house:  81131
+Antenna installed at pos:  81209  installed house:  81210
+Start pos:  81291  start house:  81292
+Antenna installed at pos:  81364  installed house:  81365
+Start pos:  81448  start house:  81449
+Antenna installed at pos:  81528  installed house:  81529
+Start pos:  81609  start house:  81610
+Antenna installed at pos:  81689  installed house:  81690
+Start pos:  81779  start house:  81780
+Antenna installed at pos:  81855  installed house:  81856
+Start pos:  81938  start house:  81939
+Antenna installed at pos:  82016  installed house:  82017
+Start pos:  82099  start house:  82100
+Antenna installed at pos:  82176  installed house:  82177
+Start pos:  82259  start house:  82260
+Antenna installed at pos:  82336  installed house:  82337
+Start pos:  82419  start house:  82420
+Antenna installed at pos:  82495  installed house:  82496
+Start pos:  82577  start house:  82578
+Antenna installed at pos:  82656  installed house:  82657
+Start pos:  82739  start house:  82740
+Antenna installed at pos:  82819  installed house:  82820
+Start pos:  82903  start house:  82904
+Antenna installed at pos:  82983  installed house:  82984
+Start pos:  83064  start house:  83065
+Antenna installed at pos:  83144  installed house:  83145
+Start pos:  83225  start house:  83226
+Antenna installed at pos:  83304  installed house:  83305
+Start pos:  83392  start house:  83393
+Antenna installed at pos:  83468  installed house:  83469
+Start pos:  83549  start house:  83550
+Antenna installed at pos:  83620  installed house:  83621
+Start pos:  83702  start house:  83703
+Antenna installed at pos:  83777  installed house:  83778
+Start pos:  83859  start house:  83860
+Antenna installed at pos:  83938  installed house:  83939
+Start pos:  84034  start house:  84035
+Antenna installed at pos:  84112  installed house:  84113
+Start pos:  84194  start house:  84195
+Antenna installed at pos:  84273  installed house:  84274
+Start pos:  84360  start house:  84361
+Antenna installed at pos:  84437  installed house:  84438
+Start pos:  84523  start house:  84524
+Antenna installed at pos:  84601  installed house:  84602
+Start pos:  84690  start house:  84691
+Antenna installed at pos:  84769  installed house:  84770
+Start pos:  84858  start house:  84859
+Antenna installed at pos:  84928  installed house:  84929
+Start pos:  85009  start house:  85010
+Antenna installed at pos:  85086  installed house:  85087
+Start pos:  85180  start house:  85181
+Antenna installed at pos:  85259  installed house:  85260
+Start pos:  85340  start house:  85341
+Antenna installed at pos:  85420  installed house:  85421
+Start pos:  85504  start house:  85505
+Antenna installed at pos:  85583  installed house:  85584
+Start pos:  85666  start house:  85667
+Antenna installed at pos:  85742  installed house:  85743
+Start pos:  85827  start house:  85828
+Antenna installed at pos:  85905  installed house:  85906
+Start pos:  85986  start house:  85987
+Antenna installed at pos:  86066  installed house:  86067
+Start pos:  86148  start house:  86149
+Antenna installed at pos:  86228  installed house:  86229
+Start pos:  86311  start house:  86312
+Antenna installed at pos:  86391  installed house:  86392
+Start pos:  86472  start house:  86473
+Antenna installed at pos:  86552  installed house:  86553
+Start pos:  86640  start house:  86641
+Antenna installed at pos:  86719  installed house:  86720
+Start pos:  86800  start house:  86801
+Antenna installed at pos:  86877  installed house:  86878
+Start pos:  86961  start house:  86962
+Antenna installed at pos:  87041  installed house:  87042
+Start pos:  87126  start house:  87127
+Antenna installed at pos:  87206  installed house:  87207
+Start pos:  87287  start house:  87288
+Antenna installed at pos:  87364  installed house:  87365
+Start pos:  87445  start house:  87446
+Antenna installed at pos:  87522  installed house:  87523
+Start pos:  87604  start house:  87605
+Antenna installed at pos:  87684  installed house:  87685
+Start pos:  87765  start house:  87766
+Antenna installed at pos:  87842  installed house:  87843
+Start pos:  87926  start house:  87927
+Antenna installed at pos:  87999  installed house:  88000
+Start pos:  88088  start house:  88089
+Antenna installed at pos:  88168  installed house:  88169
+Start pos:  88250  start house:  88251
+Antenna installed at pos:  88329  installed house:  88330
+Start pos:  88412  start house:  88413
+Antenna installed at pos:  88492  installed house:  88493
+Start pos:  88573  start house:  88574
+Antenna installed at pos:  88651  installed house:  88652
+Start pos:  88742  start house:  88743
+Antenna installed at pos:  88822  installed house:  88823
+Start pos:  88905  start house:  88906
+Antenna installed at pos:  88985  installed house:  88986
+Start pos:  89067  start house:  89068
+Antenna installed at pos:  89146  installed house:  89147
+Start pos:  89231  start house:  89232
+Antenna installed at pos:  89310  installed house:  89311
+Start pos:  89394  start house:  89395
+Antenna installed at pos:  89472  installed house:  89473
+Start pos:  89553  start house:  89554
+Antenna installed at pos:  89629  installed house:  89630
+Start pos:  89712  start house:  89713
+Antenna installed at pos:  89791  installed house:  89792
+Start pos:  89872  start house:  89873
+Antenna installed at pos:  89952  installed house:  89953
+Start pos:  90033  start house:  90034
+Antenna installed at pos:  90097  installed house:  90098
+Start pos:  90178  start house:  90179
+Antenna installed at pos:  90256  installed house:  90257
+Start pos:  90337  start house:  90338
+Antenna installed at pos:  90417  installed house:  90418
+Start pos:  90499  start house:  90500
+Antenna installed at pos:  90577  installed house:  90578
+Start pos:  90658  start house:  90659
+Antenna installed at pos:  90730  installed house:  90731
+Start pos:  90814  start house:  90815
+Antenna installed at pos:  90893  installed house:  90894
+Start pos:  90974  start house:  90975
+Antenna installed at pos:  91048  installed house:  91049
+Start pos:  91135  start house:  91136
+Antenna installed at pos:  91208  installed house:  91209
+Start pos:  91290  start house:  91291
+Antenna installed at pos:  91368  installed house:  91369
+Start pos:  91454  start house:  91455
+Antenna installed at pos:  91530  installed house:  91531
+Start pos:  91616  start house:  91617
+Antenna installed at pos:  91695  installed house:  91696
+Start pos:  91776  start house:  91777
+Antenna installed at pos:  91853  installed house:  91854
+Start pos:  91940  start house:  91941
+Antenna installed at pos:  92012  installed house:  92013
+Start pos:  92100  start house:  92101
+Antenna installed at pos:  92180  installed house:  92181
+Start pos:  92261  start house:  92262
+Antenna installed at pos:  92339  installed house:  92340
+Start pos:  92423  start house:  92424
+Antenna installed at pos:  92499  installed house:  92500
+Start pos:  92580  start house:  92581
+Antenna installed at pos:  92660  installed house:  92661
+Start pos:  92743  start house:  92744
+Antenna installed at pos:  92823  installed house:  92824
+Start pos:  92908  start house:  92909
+Antenna installed at pos:  92988  installed house:  92989
+Start pos:  93071  start house:  93072
+Antenna installed at pos:  93151  installed house:  93152
+Start pos:  93232  start house:  93233
+Antenna installed at pos:  93312  installed house:  93313
+Start pos:  93396  start house:  93397
+Antenna installed at pos:  93474  installed house:  93475
+Start pos:  93556  start house:  93557
+Antenna installed at pos:  93636  installed house:  93637
+Start pos:  93724  start house:  93725
+Antenna installed at pos:  93804  installed house:  93805
+Start pos:  93887  start house:  93888
+Antenna installed at pos:  93966  installed house:  93967
+Start pos:  94047  start house:  94048
+Antenna installed at pos:  94127  installed house:  94128
+Start pos:  94215  start house:  94216
+Antenna installed at pos:  94292  installed house:  94293
+Start pos:  94378  start house:  94379
+Antenna installed at pos:  94457  installed house:  94458
+Start pos:  94538  start house:  94539
+Antenna installed at pos:  94618  installed house:  94619
+Start pos:  94704  start house:  94705
+Antenna installed at pos:  94781  installed house:  94782
+Start pos:  94866  start house:  94867
+Antenna installed at pos:  94935  installed house:  94936
+Start pos:  95019  start house:  95020
+Antenna installed at pos:  95099  installed house:  95100
+Start pos:  95182  start house:  95183
+Antenna installed at pos:  95261  installed house:  95262
+Start pos:  95344  start house:  95345
+Antenna installed at pos:  95424  installed house:  95425
+Start pos:  95507  start house:  95508
+Antenna installed at pos:  95587  installed house:  95588
+Start pos:  95673  start house:  95674
+Antenna installed at pos:  95750  installed house:  95751
+Start pos:  95831  start house:  95832
+Antenna installed at pos:  95909  installed house:  95910
+Start pos:  95993  start house:  95994
+Antenna installed at pos:  96072  installed house:  96073
+Start pos:  96155  start house:  96156
+Antenna installed at pos:  96235  installed house:  96236
+Start pos:  96317  start house:  96318
+Antenna installed at pos:  96396  installed house:  96397
+Start pos:  96483  start house:  96484
+Antenna installed at pos:  96562  installed house:  96563
+Start pos:  96643  start house:  96644
+Antenna installed at pos:  96722  installed house:  96723
+Start pos:  96803  start house:  96804
+Antenna installed at pos:  96883  installed house:  96884
+Start pos:  96967  start house:  96968
+Antenna installed at pos:  97045  installed house:  97046
+Start pos:  97131  start house:  97132
+Antenna installed at pos:  97211  installed house:  97212
+Start pos:  97297  start house:  97298
+Antenna installed at pos:  97377  installed house:  97378
+Start pos:  97460  start house:  97461
+Antenna installed at pos:  97538  installed house:  97539
+Start pos:  97620  start house:  97621
+Antenna installed at pos:  97698  installed house:  97699
+Start pos:  97786  start house:  97787
+Antenna installed at pos:  97866  installed house:  97867
+Start pos:  97952  start house:  97953
+Antenna installed at pos:  98027  installed house:  98028
+Start pos:  98111  start house:  98112
+Antenna installed at pos:  98191  installed house:  98192
+Start pos:  98275  start house:  98276
+Antenna installed at pos:  98353  installed house:  98354
+Start pos:  98436  start house:  98437
+Antenna installed at pos:  98514  installed house:  98515
+Start pos:  98597  start house:  98598
+Antenna installed at pos:  98674  installed house:  98675
+Start pos:  98760  start house:  98761
+Antenna installed at pos:  98840  installed house:  98841
+Start pos:  98922  start house:  98923
+Antenna installed at pos:  98999  installed house:  99000
+Start pos:  99081  start house:  99082
+Antenna installed at pos:  99161  installed house:  99162
+Start pos:  99243  start house:  99244
+Antenna installed at pos:  99318  installed house:  99319
+Start pos:  99401  start house:  99402
+Antenna installed at pos:  99479  installed house:  99480
+Start pos:  99561  start house:  99562
+Antenna installed at pos:  99641  installed house:  99642
+Start pos:  99722  start house:  99723
+Antenna installed at pos:  99799  installed house:  99800
+Start pos:  99880  start house:  99881
+Antenna installed at pos:  99957  installed house:  99958
+620
+

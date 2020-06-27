@@ -1,0 +1,24 @@
+City and strenght:  1 2
+{1}
+{1, 2}
+{1, 2, 3}
+{1, 2, 3} set()
+City and strenght:  2 0
+{2}
+{2} {1, 2, 3}
+No
+
+
+
+City and strenght:  2 1
+{2}
+{1, 2, 4}
+{1, 2, 4}
+{1, 2, 4} set()
+City and strenght:  3 0
+{3}
+{3} {1, 2, 4}
+Yes
+
+
+
